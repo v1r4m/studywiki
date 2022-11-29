@@ -1,4 +1,5 @@
 [(en-US)](./readme-en.md) | [(ko-KR)](./readme.md)
+오픈나무로 만든 스터디위키의 초안입니다.
 
 # 오픈나무
 [![Python 3.7 이상](https://img.shields.io/badge/python->=%203.7-blue.svg)](https://python.org)
@@ -8,6 +9,7 @@
 ![](https://raw.githubusercontent.com/openNAMU/openNAMU/beta/.github/logo.png)
 
 오픈나무는 파이썬 기반의 위키 엔진입니다.
+
 
 ## 시작하기
 오픈나무는 파이썬 환경에서 동작하는 파이썬 애플리케이션으로, 파이썬 환경을 필요로 합니다.
